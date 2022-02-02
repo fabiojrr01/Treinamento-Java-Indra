@@ -1,0 +1,7 @@
+
+¸
+java:S1130"„Remove the declaration of thrown exception 'com.indracompany.treinamento.exception.AplicacaoException' which is a runtime exception.(Ê˜¯æ8…¯…»ê/HóRMINORZ
+CODE_SMELL
+{
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì®—Ù8…¯…»ê/HôRMINORZ
+CODE_SMELL
